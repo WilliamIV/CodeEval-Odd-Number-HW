@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval Odd numbers HW\CodeEval Odd numbers HW\bin\Debug\CodeEval Odd numbers HW.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval Odd numbers HW\CodeEval Odd numbers HW\bin\Debug\CodeEval Odd numbers HW.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval Odd numbers HW\CodeEval Odd numbers HW\bin\Debug\CodeEval Odd numbers HW.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval Odd numbers HW\CodeEval Odd numbers HW\obj\Debug\CodeEval Odd numbers HW.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval Odd numbers HW\CodeEval Odd numbers HW\obj\Debug\CodeEval Odd numbers HW.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval Odd numbers HW\CodeEval Odd numbers HW\obj\Debug\CodeEval Odd numbers HW.pdb
